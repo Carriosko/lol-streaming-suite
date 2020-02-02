@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace lol_streaming_suite.core.Model.Common
+﻿namespace lol_observer_suite.Core.Model.Common
 {
     public class Champion
     {

@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
-namespace lol_streaming_suite.core.Model.InGame.Event
+namespace lol_observer_suite.Core.Model.InGame.Event
 {
     public class InGameKillAssistEvent : InGameKillEvent
     {

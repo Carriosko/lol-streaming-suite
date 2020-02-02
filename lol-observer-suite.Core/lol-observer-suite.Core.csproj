@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>lol_streaming_suite.core</RootNamespace>
+    <RootNamespace>lol_observer_suite.Core</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

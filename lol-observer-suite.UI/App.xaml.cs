@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace lol_streaming_suite
+namespace lol_observer_suite.UI
 {
     /// <summary>
     /// Interaction logic for App.xaml

@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>lol_streaming_suite</RootNamespace>
+    <RootNamespace>lol_observer_suite.UI</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
