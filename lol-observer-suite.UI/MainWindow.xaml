@@ -5,11 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:lol_observer_suite.UI"
         xmlns:menu="clr-namespace:lol_observer_suite.UI.Menu"
+        xmlns:statusbar="clr-namespace:lol_observer_suite.UI.StatusBar"
         mc:Ignorable="d"
         Title="LoL Streaming Suite" Height="450" Width="800">
     <Grid>
         <DockPanel>
             <menu:Menu DockPanel.Dock="Top" />
+            <statusbar:StatusBar DockPanel.Dock="Bottom" />
             <TextBox />
         </DockPanel>
     </Grid>
